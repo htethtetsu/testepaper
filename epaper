@@ -1,0 +1,127 @@
+{
+	"daily_eleven": [
+		{
+			"id": 2,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528447064hEkPE2.pdf",
+			"filesize": "6.7 MB",
+			"journal_type": "Daily Eleven",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528447064tyAE3u.jpg",
+			"release_date": "2018-06-09"
+		},
+		{
+			"id": 6,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450160mpKmDh.pdf",
+			"filesize": "6.7 MB",
+			"journal_type": "Daily Eleven",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528450160TeVzgR.jpg",
+			"release_date": "2018-06-14"
+		},
+		{
+			"id": 9,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450258yIN70i.pdf",
+			"filesize": "4.4 MB",
+			"journal_type": "Daily Eleven",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528450258QmQwJQ.png",
+			"release_date": "2018-06-14"
+		},
+		{
+			"id": 12,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450837F27mKj.pdf",
+			"filesize": "10 MB",
+			"journal_type": "Daily Eleven",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528450837t0YvmZ.jpg",
+			"release_date": "2018-06-13"
+		}
+	],
+	"weekly_eleven": [
+		{
+			"id": 1,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528445188EsuiJi.pdf",
+			"filesize": "1.1 MB",
+			"journal_type": "Weekly Eleven News",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528445188X6J5X7.png",
+			"release_date": "2018-06-08"
+		},
+		{
+			"id": 3,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528447100IhyBOr.pdf",
+			"filesize": "1.1 MB",
+			"journal_type": "Weekly Eleven News",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528447100cFwh9q.jpg",
+			"release_date": "2018-06-10"
+		},
+		{
+			"id": 7,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/15284501922gV60S.pdf",
+			"filesize": "1.1 MB",
+			"journal_type": "Weekly Eleven News",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528450192OLBgqM.png",
+			"release_date": "2018-06-15"
+		}
+	],
+	"first_eleven_sports": [
+		{
+			"id": 4,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528447130fNP4cs.pdf",
+			"filesize": "459.3 KB",
+			"journal_type": "First Eleven Sports",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528447130EGjXdt.jpg",
+			"release_date": "2018-06-12"
+		},
+		{
+			"id": 8,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/15284502211UD4Pf.pdf",
+			"filesize": "459.3 KB",
+			"journal_type": "First Eleven Sports",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528450221Z7FkDY.png",
+			"release_date": "2018-06-17"
+		},
+		{
+			"id": 13,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528451005KmUmHe.pdf",
+			"filesize": "10 MB",
+			"journal_type": "First Eleven Sports",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528451005ElWAuL.jpg",
+			"release_date": "2018-06-20"
+		}
+	],
+	"eleven_sports": [
+		{
+			"id": 5,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528447159t9UKrs.pdf",
+			"filesize": "4.4 MB",
+			"journal_type": "Eleven Sports",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528447159dIivdN.jpg",
+			"release_date": "2018-06-12"
+		},
+		{
+			"id": 10,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450349WuwRxi.pdf",
+			"filesize": "6.7 MB",
+			"journal_type": "Eleven Sports",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528450349q4QtuI.jpg",
+			"release_date": "2018-06-19"
+		},
+		{
+			"id": 11,
+			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450641FOioNt.pdf",
+			"filesize": "10 MB",
+			"journal_type": "Eleven Sports",
+			"description": "Description",
+			"image_path": "http:\/\/192.168.100.17:8000\/uploads\/pdf-images\/1528450641w18JOs.jpg",
+			"release_date": "2018-06-20"
+		}
+	]
+}
