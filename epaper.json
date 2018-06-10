@@ -2,7 +2,7 @@
 	"daily_eleven": [
 		{
 			"id": 2,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528447064hEkPE2.pdf",
+			"file": "https://www.cdc.gov/eval/guide/cdcevalmanual.pdf",
 			"filesize": "6.7 MB",
 			"journal_type": "Daily Eleven",
 			"description": "Description",
@@ -11,7 +11,7 @@
 		},
 		{
 			"id": 6,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450160mpKmDh.pdf",
+			"file": "http://maven.apache.org/maven-1.x/maven.pdf",
 			"filesize": "6.7 MB",
 			"journal_type": "Daily Eleven",
 			"description": "Description",
@@ -20,7 +20,7 @@
 		},
 		{
 			"id": 9,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450258yIN70i.pdf",
+			"file": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf",
 			"filesize": "4.4 MB",
 			"journal_type": "Daily Eleven",
 			"description": "Description",
@@ -29,7 +29,7 @@
 		},
 		{
 			"id": 12,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450837F27mKj.pdf",
+			"file": "https://s1.q4cdn.com/806093406/files/doc_downloads/test.pdf",
 			"filesize": "10 MB",
 			"journal_type": "Daily Eleven",
 			"description": "Description",
@@ -40,7 +40,7 @@
 	"weekly_eleven": [
 		{
 			"id": 1,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528445188EsuiJi.pdf",
+			"file": "https://www.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/pdf_open_parameters.pdf",
 			"filesize": "1.1 MB",
 			"journal_type": "Weekly Eleven News",
 			"description": "Description",
@@ -49,7 +49,7 @@
 		},
 		{
 			"id": 3,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528447100IhyBOr.pdf",
+			"file": "https://www.alejandrodelasota.org/wp-content/uploads/2013/03/demoform1.pdf",
 			"filesize": "1.1 MB",
 			"journal_type": "Weekly Eleven News",
 			"description": "Description",
@@ -58,7 +58,7 @@
 		},
 		{
 			"id": 7,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/15284501922gV60S.pdf",
+			"file": "https://s1.q4cdn.com/806093406/files/doc_downloads/test.pdf",
 			"filesize": "1.1 MB",
 			"journal_type": "Weekly Eleven News",
 			"description": "Description",
@@ -69,7 +69,7 @@
 	"first_eleven_sports": [
 		{
 			"id": 4,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528447130fNP4cs.pdf",
+			"file": "https://s1.q4cdn.com/806093406/files/doc_downloads/test.pdf",
 			"filesize": "459.3 KB",
 			"journal_type": "First Eleven Sports",
 			"description": "Description",
@@ -78,7 +78,7 @@
 		},
 		{
 			"id": 8,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/15284502211UD4Pf.pdf",
+			"file": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf",
 			"filesize": "459.3 KB",
 			"journal_type": "First Eleven Sports",
 			"description": "Description",
@@ -87,7 +87,7 @@
 		},
 		{
 			"id": 13,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528451005KmUmHe.pdf",
+			"file": "http://maven.apache.org/maven-1.x/maven.pdf",
 			"filesize": "10 MB",
 			"journal_type": "First Eleven Sports",
 			"description": "Description",
@@ -98,7 +98,7 @@
 	"eleven_sports": [
 		{
 			"id": 5,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528447159t9UKrs.pdf",
+			"file": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf",
 			"filesize": "4.4 MB",
 			"journal_type": "Eleven Sports",
 			"description": "Description",
@@ -107,7 +107,7 @@
 		},
 		{
 			"id": 10,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450349WuwRxi.pdf",
+			"file": "http://maven.apache.org/maven-1.x/maven.pdf",
 			"filesize": "6.7 MB",
 			"journal_type": "Eleven Sports",
 			"description": "Description",
@@ -116,7 +116,7 @@
 		},
 		{
 			"id": 11,
-			"file": "http:\/\/192.168.100.17:8000\/uploads\/pdf-files\/1528450641FOioNt.pdf",
+			"file": "https://www.ets.org/Media/Tests/GRE/pdf/gre_research_validity_data.pdf",
 			"filesize": "10 MB",
 			"journal_type": "Eleven Sports",
 			"description": "Description",
